@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\MessageBoxApp\MessageBoxApp\obj\Debug\MessageBoxApp.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\MessageBoxApp\MessageBoxApp\obj\Debug\MessageBoxApp.frmMain.resources
+C:\Users\usuario\source\repos\MessageBoxApp\MessageBoxApp\obj\Debug\MessageBoxApp.Properties.Resources.resources
+C:\Users\usuario\source\repos\MessageBoxApp\MessageBoxApp\obj\Debug\MessageBoxApp.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\MessageBoxApp\MessageBoxApp\obj\Debug\MessageBoxApp.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\MessageBoxApp\MessageBoxApp\bin\Debug\MessageBoxApp.exe.config
+C:\Users\usuario\source\repos\MessageBoxApp\MessageBoxApp\bin\Debug\MessageBoxApp.exe
+C:\Users\usuario\source\repos\MessageBoxApp\MessageBoxApp\bin\Debug\MessageBoxApp.pdb
+C:\Users\usuario\source\repos\MessageBoxApp\MessageBoxApp\obj\Debug\MessageBoxApp.exe
+C:\Users\usuario\source\repos\MessageBoxApp\MessageBoxApp\obj\Debug\MessageBoxApp.pdb
