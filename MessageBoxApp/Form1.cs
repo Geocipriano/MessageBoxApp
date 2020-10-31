@@ -29,7 +29,7 @@ namespace MessageBoxApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Aplicativo Executado com sucesso!");
+            MessageBox.Show("Aplicativo Executado com sucesso!", "Sucesso",MessageBoxButtons.OK,MessageBoxIcon.Information);
         }
     }
 }
